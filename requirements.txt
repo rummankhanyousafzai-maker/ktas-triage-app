@@ -1,6 +1,6 @@
 streamlit
-tensorflow-cpu
+tensorflow==2.13.0
 scikit-learn
-lime
+numpy==1.24.3
 shap
-numpy
+lime
