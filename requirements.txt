@@ -1,6 +1,7 @@
 streamlit
-tensorflow==2.13.0
-scikit-learn
-numpy==1.24.3
-shap
-lime
+tensorflow==2.12.0
+scikit-learn==1.3.2
+numpy==1.23.5
+shap==0.41.0
+lime==0.2.0.1
+h5py==3.9.0
